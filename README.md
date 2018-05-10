@@ -3,8 +3,10 @@ CS5590 APS - Deep Learning Programming
 ICP7
 
 Abdoh Jabbari 
-Class ID 18
-Group ID 17
+
+Class ID: 18
+
+Group ID: 17
    
 Objective: 
 Applying Reinforcement Learning on some of Gym package games (Cart Pole V1and Mountain Car V0)
