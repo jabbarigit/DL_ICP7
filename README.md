@@ -18,7 +18,7 @@ Windows 10, Eclipse, Python 3
 Input/output:
 Text output to show the enhancement of the score while running the games with the RL at code excution. Also, Gym package providing a basic animation illustration for each game to show the game execution progress during each epoch.
 
-Explain the implementation:
+The implementation:
 The code is explained with comments
 
 The deployment:
